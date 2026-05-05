@@ -1,1 +1,1 @@
-# Smart-Study-management
+python Project based on Study management 
